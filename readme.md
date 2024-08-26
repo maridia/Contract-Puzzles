@@ -1,5 +1,7 @@
 ## Contract Puzzles
 
+This was from Section 5 of Alchemy University, Ethereum Bootcamp.  
+
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
 
 Each Game contract will have a storage variable called `isWon`:
